@@ -40,8 +40,8 @@ Basically I prefer NodeMCU boards rather than plain ESP12 chips because of USB-r
 Input has to be 12v and output 3.3v capable. Current consumption is very small as NodeMCU and MOSFET gates are only powered.
 
 ## Dimmer wiring
-Here is the schematics of the dimmer :
-TODO : picture here
+Schematics of the dimmer is defined in [EasyEDA](https://easyeda.com/nikolai.fiikov/4x_led_dimmer-1c6357d0d04b4df8aa10d23598643d1c).
+There is also PCB design defined, one can download or directly order.
 
 ## Software
 There are 3 distincs aspects to be addressed :
